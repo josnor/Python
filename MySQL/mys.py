@@ -1,3 +1,5 @@
+# Ejemplo de abms en MySQL con  Python
+
 import pymysql
 
 #_________________ Conexión
